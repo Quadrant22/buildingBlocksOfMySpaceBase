@@ -1,0 +1,30 @@
+#title {
+    background-image: linear-gradient(to right, rgb(230, 132, 230),rgb(175, 184, 134));
+}
+#ready {
+    background-image: linear-gradient(to right, rgb(230, 132, 230),rgb(175, 184, 134));
+}
+
+#CrapsParagraph {
+    background-color: beige;
+    background-image: linear-gradient(to right,rgb(224, 135, 224),rgb(190, 190, 138));
+}
+
+#button {
+    background-color: rgb(25, 209, 209);
+    border: 1pxl solid aliceblue;
+}
+
+#die1Rolling {
+    background-image: linear-gradient(to right, rgb(26, 153, 226), rgb(211, 238, 90));
+}
+#die2Rolling {
+    background-image: linear-gradient(to right, rgb(26, 153, 226), rgb(211, 238, 90));
+}
+#sumOfDice {
+    background-image: linear-gradient(to right, rgb(26, 153, 226), rgb(211, 238, 90));
+}
+#crapsStatus {
+    background-image: linear-gradient(to right, rgb(26, 226, 126), rgb(211, 238, 90));
+    font-size: 30px;
+}
